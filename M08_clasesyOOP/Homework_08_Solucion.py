@@ -303,9 +303,9 @@ x.Grados("C","F")
 
 import sys
 sys.path
-sys.path.append(r'/home/jairoescrito/OneDrive/Documentos/Henry/RepoGit_old/PrepCourse/Python-Prep/07 - Clases & OOP')
+sys.path.append(r'/home/jairoescrito/OneDrive/Documentos/Henry/Python-Prep')
 
-from Tarea_7 import *
+from Tarea_8 import *
 L = [1,1,1,1,1,1,2,2,2,2,2,3,3,4,4,4,4,4,4]
 Reto = Tarea(L)
 Reto.Primo()
